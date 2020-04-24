@@ -1,4 +1,4 @@
-# Projet_JavaScript_L3_S5
+# Projet_JavaScript_L3_S5_F1_Race
 
 HARDY François / FERRARINI Julian Premier mini jeu en JavaScript, cours de M. BUFFA Michel
 
