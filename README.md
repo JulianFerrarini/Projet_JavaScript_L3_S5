@@ -1,6 +1,6 @@
 # Projet_JavaScript_L3_S5
 
-HARDY François / FERRARINI Julian Premier jeu en JavaScript, cours de M. BUFFA Michel
+Développé par HARDY François / FERRARINI Julian Premier jeu en JavaScript, cours de M. BUFFA Michel (2 mois)
 
 Nom: F1 Race
 
